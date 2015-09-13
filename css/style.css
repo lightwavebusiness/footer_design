@@ -1,0 +1,195 @@
+
+/**********************************************************************************
+
+	Project Name: Bootstrap Footer Design
+	Project Description: Responsive footer design based on bootstrap 3+
+	File Name: styles.css
+	Author: Md Abdul Momin
+	Author URI: http://www.opensourcit.net
+	Version: 1.0.0
+	
+**********************************************************************************/
+
+body{
+	background: url(../image/bg.png) repeat scroll  0 0;
+}
+
+
+li{
+	list-style: none;
+}
+
+a:hover{
+	text-decoration: none;
+	outline: 0;
+}
+
+
+
+.creative_footer{
+	margin: 100px auto;
+	background-color: #CECBC4;
+	padding: 30px 0;
+}
+
+.about_us a{
+	color: #89857E;
+	display: block;
+	text-decoration: none;
+	font-size: 30px;
+	line-height: 1.9em;
+	padding-bottom: 20px;
+
+}
+
+.about_us p{
+	color: #706c66;
+	font-size: 13px;
+	line-height: 1.5em;
+	padding-bottom: 60px;
+
+}
+
+.socialmedia{
+	
+}
+
+.socialmedia h4{
+	text-transform: capitalize;
+	color: #89857E;
+}
+
+.socialmedia a{
+	color: #706c66;
+	font-size: 20px;
+}
+
+.earn p{
+	color: #5c554b;
+	font-size: 16px;
+	font-weight: 300;
+	padding-top: 12px;
+}
+
+.earn ul{
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+.earn li{
+	display: block;
+
+}
+
+.earn a{
+	color: #5c554b;
+	text-transform: capitalize;
+	font-size: 13px;
+	line-height: 1.9em;
+}
+
+.earn a:hover{
+	color: #232323;
+}
+
+.community p{
+	color: #5c554b;
+	font-size: 16px;
+	font-weight: 300;
+	padding-top: 12px;
+}
+
+.community ul{
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+.community li{
+	display: block;
+}
+
+.community a{
+	color: #5c554b;
+	text-transform: capitalize;
+	font-size: 13px;
+	line-height: 1.9em;
+}
+
+.community a:hover{
+	color: #232323;
+}
+
+
+.goodies p{
+	color: #5c554b;
+	font-size: 16px;
+	font-weight: 300;
+	padding-top: 12px;
+}
+
+.goodies ul{
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+.goodies li{
+	display: block;
+	
+}
+
+.goodies a{
+	color: #5c554b;
+	text-transform: capitalize;
+	font-size: 13px;
+	line-height: 1.9em;
+}
+
+.goodies a:hover{
+	color: #232323;
+}
+
+.company p{
+	color: #5c554b;
+	font-size: 16px;
+	font-weight: 300;
+	padding-top: 12px;
+}
+
+.company ul{
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+.company li{
+	display: block;
+	
+}
+
+.company a{
+	color: #5c554b;
+	text-transform: capitalize;
+	font-size: 13px;
+	line-height: 1.9em;
+}
+
+.company a:hover{
+	color: #232323;
+}
+
+
+
+/*****************************************************************/
+/* for top button and footer social link  */
+/*****************************************************************/
+
+.my_button{
+	margin: 50px auto 0px;
+}
+.my_social_link a{
+	font-size: 20px;
+	color:#232323;
+}
